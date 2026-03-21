@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I'm currently working on<br><br>My 66-day Data Analytics challenge — building Python, SQL, Pandas and Power BI skills from scratch<br><br>👯 I'm looking to collaborate on<br><br>Data analysis projects, beginner-friendly open source DA/Python repos, and Kaggle competitions<br><br>🤝 I'm looking for help with<br><br>Data Analytics internship opportunities — open to remote roles<br><br>🌱 I'm currently learning<br><br>Python · Pandas · SQL · Power BI · Statistics for Data Analytics<br><br>💬 Ask me about<br><br>My journey from zero to Data Analyst — BTech IT 2nd year building a portfolio in 66 days<br><br>⚡ Fun fact<br><br>I started learning Data Analytics with zero experience and I'm documenting every single day publicly
+🔭 I'm currently working on building Python, SQL, Pandas and Power BI skills from scratch<br><br>👯 I'm looking to collaborate on Data analysis projects, beginner-friendly open source DA/Python repos, and Kaggle competitions<br><br>🤝 I'm looking for help with Data Analytics internship opportunities — open to remote roles<br><br>🌱 I'm currently learning Python · Pandas · SQL · Power BI · Statistics for Data Analytics<br><br>
 
 
 ## 🌐 Socials:
