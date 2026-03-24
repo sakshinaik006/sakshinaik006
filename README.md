@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 I'm currently working on building Python, SQL, Pandas and Power BI skills from scratch<br><br> I'm looking to collaborate on Data analysis projects, beginner-friendly open source DA/Python repos, and Kaggle competitions<br><br> I'm looking for help with Data Analytics internship opportunities — open to remote roles<br><br> I'm currently learning Python · Pandas · SQL · Power BI · Statistics for Data Analytics<br><br>
 
